@@ -111,11 +111,9 @@ form {
 .wrap-btn {
   position: relative;
   bottom: 50px;
-  left: 0;
-  right: 0;
+  left: 60%;
   padding: 25px;
-  margin: 0 auto;
-  width: 80%;
+  width: 30%;
 }
 
 .btn {
@@ -236,8 +234,9 @@ footer {
 
   .wrap-btn {
     bottom: 58px;
+    left: 40%;
     margin: 0;
-    width: 60%;
+    width: 20%;
     padding: 28px;
   }
 
